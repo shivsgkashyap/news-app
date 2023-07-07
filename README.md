@@ -1,6 +1,6 @@
 ## The Daily Insight - News App
 
-# [LIVE DEMO](news-app-wine-two.vercel.app) :point_left:
+# [LIVE DEMO](www.news-app-wine-two.vercel.app) :point_left:
 
 <img width="500" alt="Screenshot 2023-07-07 at 19 06 20" src="https://github.com/shivsgkashyap/news-app/assets/89941894/ab0ed9d9-d654-4802-ac2e-033cd1473f34">
 <img width="500" alt="Screenshot 2023-07-07 at 19 07 53" src="https://github.com/shivsgkashyap/news-app/assets/89941894/6bcc81d6-d8a1-43fc-a1fa-dcb22eb3cd52">
