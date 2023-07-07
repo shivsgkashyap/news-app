@@ -10,11 +10,11 @@ const Header = () => {
         <Bars3Icon className="h-8 w-8 cursor-pointer" />
         <Link href="/" prefetch={false}>
           <h1 className="font-serif text-4xl text-center">
-            The{" "}
+            THE{" "}
             <span className="underline decoration-6 decoration-orange-400">
-              News
+              DAILY
             </span>{" "}
-            App
+            INSIGHT
           </h1>
         </Link>
 
