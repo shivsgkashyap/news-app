@@ -1,3 +1,5 @@
+import ReadMoreButton from "./ReadMoreButton";
+
 type Props = {
   article: Article;
 };
@@ -26,7 +28,7 @@ const Article = ({ article }: Props) => {
           </footer>
         </div>
 
-        {/* Read More Btn */}
+        <ReadMoreButton article={article} />
       </div>
     </article>
   );
