@@ -17,10 +17,10 @@ const Article = ({ article }: Props) => {
           <h2 className="font-bold font-serif">{article.title}</h2>
 
           <section className="mt-2 flex-1">
-            <p className="text-xs line-clamp-6">{article.description}</p>
+            <p className="text-xs line-clamp-3">{article.description}</p>
           </section>
 
-          <footer>
+          <footer className="text-xs text-right ml-auto flex space-x-1 pt-5 italic text-gray-400">
             <p>{article.source}</p>
             <p>{article.published_at}</p>
           </footer>
