@@ -1,4 +1,4 @@
-# The Daily Insight - News App
+## The Daily Insight - News App
 
 # [LIVE DEMO](https://news-app-wine-two.vercel.app) :point_left:
 
