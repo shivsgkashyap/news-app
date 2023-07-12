@@ -1,15 +1,15 @@
-## The Daily Insight - News App
+# The Daily Insight - News App
 
-# [LIVE DEMO](https://news-app-wine-two.vercel.app) :point_left:
+## [LIVE DEMO](https://news-app-wine-two.vercel.app) :point_left:
 
 <img width="500" alt="Screenshot 2023-07-07 at 19 06 20" src="https://github.com/shivsgkashyap/news-app/assets/89941894/ab0ed9d9-d654-4802-ac2e-033cd1473f34">
 <img width="500" alt="Screenshot 2023-07-07 at 19 07 53" src="https://github.com/shivsgkashyap/news-app/assets/89941894/6bcc81d6-d8a1-43fc-a1fa-dcb22eb3cd52">
 
 
-# Project Summary
+## Project Summary
 The only news app you will ever need. Fully responsive Real-Time News App with all the latest news from reputable sources, packaged in an aesthetically pleasing design. Built with Next.js, React.js, TypeScript, Tailwind & GraphQL.
 
-# Key features
+## Key features
 👉 Built using functional react components + ES6 JavaScript  
 👉 Dynamic data (SSR alternative in Next.js 13)  
 👉 Static data with updates (ISR alternative in Next.js 13)  
